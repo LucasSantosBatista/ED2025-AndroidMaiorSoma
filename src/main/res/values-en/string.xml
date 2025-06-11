@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SO2025-AndroidMaiorSoma</string>
+    <string name="titulo" align="center">App Numbers</string>
+    <string name="valor1">Input first number</string>
+    <string name="valor2">Input second number</string>
+    <string name="maiorvalor">Show higher number</string>
+    <string name="somarvalor">Sum</string>
+</resources>

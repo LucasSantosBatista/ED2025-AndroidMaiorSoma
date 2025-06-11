@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SO2025-AndroidMaiorSoma</string>
+    <string name="titulo" align="center">App Números</string>
+    <string name="valor1">Digite o primeiro valor</string>
+    <string name="valor2">Digite o segundo valor</string>
+    <string name="maiorvalor">Mostrar maior</string>
+    <string name="somarvalor">Somar</string>
+</resources>
